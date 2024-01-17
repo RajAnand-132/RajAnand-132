@@ -8,7 +8,7 @@ A passionate developer with a focus on Azure development and backend technologie
 ## 📫 How to reach me:
 - 📧 Mail: **rajanandirctc@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1TMe4tFmzeZs7KJ3V9NqDqE3Vgv74ZDc44LkxveVY0rM/edit?usp=sharing)
+- 📄 Know about my experiences: [Resume]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,15 +58,6 @@ const rajAnand = {
 
 <details>
 <summary><h2>📊 Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/rajanand-132/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rajanand-132's streak" src="https://streak-stats.demolab.com/?user=rajanand-132&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
